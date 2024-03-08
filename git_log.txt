@@ -1,0 +1,19 @@
+PS C:\Users\prady\Dropbox\My PC (LAPTOP-A1G2K1PF)\Downloads\cpde\coding_24\javascript\mini_prjects\githubProfileFinder> git log
+commit e2584d3810fa4e31c12f15b48d280673eddf25a4 (HEAD -> master)
+Author: pradyumna0 <pradyumnadaware1@gmail.com>
+Date:   Sat Mar 9 02:12:38 2024 +0530
+
+    Final commit!
+
+commit f81815e461772c31b210958fe66bd2484475d4cb
+Author: pradyumna0 <pradyumnadaware1@gmail.com>
+Date:   Fri Mar 8 18:03:12 2024 +0530
+
+    Working with javascript
+
+commit 8d9dda929d155240e67cfd9a4942e4fe9dfff33b
+Author: pradyumna0 <pradyumnadaware1@gmail.com>
+Date:   Fri Mar 8 12:33:12 2024 +0530
+
+    Initital Commit
+(END)
