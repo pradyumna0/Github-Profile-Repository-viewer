@@ -139,3 +139,9 @@ body{
 .btn[type="submit"]:hover{
     background-color: hsla(9, 100%, 64%, 0.982);
 }
+@media screen and (max-width:600px){
+    body{
+        width: 100%;
+    }
+
+}
